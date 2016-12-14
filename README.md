@@ -4,9 +4,9 @@
 
 日志标签如下：
 
-  IllegalStateException        start failed: -38    start failed: -19
- 
-  already existsstart failed: -17
+    IllegalStateException        start failed: -38    start failed: -19
+
+    already existsstart failed: -17
   
 示例一：
 
